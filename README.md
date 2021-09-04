@@ -19,6 +19,6 @@ https://github.com/losrobbos/direct-messaging-api
 
 ## Launching
 
-npm install
-npm start
+- `npm install`
+- `npm start`
 
